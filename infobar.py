@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-plt.figure(figsize=(13, 6))
+plt.figure(figsize=(13, 10))
 # 构建数据
 x_data = ['Coarse-O',
 'SD',
@@ -47,7 +47,7 @@ colors = [cmap(x) for x in np.linspace(0, 1, 18)]
 
 cmap = plt.get_cmap('coolwarm')
 colors_1 = [cmap(i) for i in np.linspace(0, 1, 18 )]
-bar_width=0.4
+bar_width=0.8
 # Y轴数据使用range(len(x_data), 就是0、1、2...
 a = plt.barh(y=range(len(x_data)), width=y_data, label='normal contract',
 color= colors, alpha=0.8, height=bar_width)
