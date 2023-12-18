@@ -18,5 +18,4 @@ Python 3.11.5
 lightgbm                      4.1.0
 
 ![image](https://github.com/Federatedzhang/PDF-MF/blob/main/infor.png))
-![image](https://github.com/Federatedzhang/PDF-MF/blob/main/Figure_1.png))
-![image](https://github.com/Federatedzhang/PDF-MF/blob/main/Figure_2.png))
+![image](https://github.com/Federatedzhang/PDF-MF/blob/main/Figure_3.png))
