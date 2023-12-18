@@ -17,4 +17,4 @@ torchaudio                    2.1.0+cu118
 Python 3.11.5 
 lightgbm                      4.1.0
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/Federatedzhang/PDF-MF/blob/main/sdt2.pdf))
