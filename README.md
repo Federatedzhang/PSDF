@@ -1,5 +1,3 @@
-PSDF: A  Ponzi Scheme Detection  Framework for Smart Contracts in Ethereum
-
 
 Dataset:https://drive.google.com/open?id=1izaOs4Mlp6dxdRMtRYQeUfkDhlqLf4Z6
 
