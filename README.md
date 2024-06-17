@@ -30,3 +30,5 @@ Stpe3：run feature_extractor.py to get Multi-level features and train feature e
 Stpe4：run decsion_class.py to the results.
 .
 Notably, the function of analysing1 - analysing3.py and infobar.py is the figture 4 -7 in the paper.
+
+For more details, we can communicate with each other.
